@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 I’m Hiroyuki.
+<br>😄 I have work experience in the energy and digital industries.
+<br>🧐 I graduated from the University of Tokyo with a Bachelor of Law. 
+<br>🎓 I'm majoring in Master of Public Administration at Columbia University SIPA.
+<br>　&nbsp;　- Concentration: Climate, Energy, and Environment
+<br>　&nbsp;　- Specializaiton: Data Analytics & Quantitative Analysis
